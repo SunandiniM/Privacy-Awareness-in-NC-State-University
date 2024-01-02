@@ -1,0 +1,41 @@
+Timestamp,Age,Gender,Educational Status,Data Breach Experience,Scam Recognition Confidence,Use of Strong Passwords,Use of 2FA,Reviewing Social Media Privacy,Reviewing Smartphone Privacy,Checking App Privacy Policy,Familiarity with Data Protection Laws,Action if Data Shared Without Consent,Advocacy for Privacy Practices,Preferred Learning Methods,Awareness of University's Privacy Statement,Understanding University's Data Use,Privacy Awareness Score
+2023-11-27 22:29:52.542563, 18-24, Female, Undergraduate, Yes, Somewhat confident, Often, Yes, Monthly, Rarely, No, Somewhat familiar, Contact authorities, Yes, Workshops, Yes, Somewhat confident,33.5
+2023-11-27 22:29:52.542563, 25-34, Male, Graduate, No, Very confident, Always, Yes, Never, Never, Yes, Very familiar, Change passwords, No, Online Articles, No, Not confident,31.0
+2023-11-27 22:29:52.542563, 18-24, Male, Undergraduate, Yes, Not confident, Rarely, No, Rarely, Occasionally, No, Not familiar, Nothing, Yes, University Resources, Yes, Very confident,22.5
+2023-11-27 22:29:52.542563, 25-34, Female, Graduate, No, Somewhat confident, Always, Yes, Monthly, Monthly, Yes, Very familiar, Report to Police, No, Interactive Scenarios, Yes, Very confident,51.0
+2023-11-27 22:29:52.542563, 18-24, Prefer not to say, Undergraduate, Yes, Very confident, Often, No, Rarely, Never, No, Somewhat familiar, Block it, Yes, Online Articles, No, Somewhat confident,34.5
+2023-11-27 22:29:52.542563, 25-34, Female, Alumni, No, Not confident, Rarely, Yes, Never, Occasionally, Yes, Not familiar, Ignore it, No, University Resources, Yes, Not confident,14.0
+2023-11-27 22:29:52.542563, 18-24, Male, Undergraduate, Yes, Very confident, Always, No, Daily, Daily, No, Very familiar, Contact authorities, Yes, Workshops, No, Very confident,29.5
+2023-11-27 22:29:52.542563, 25-34, Prefer not to say, Graduate, No, Somewhat confident, Often, Yes, Rarely, Rarely, Yes, Somewhat familiar, Change passwords, No, Online Articles, Yes, Somewhat confident,33.0
+2023-11-27 22:29:52.542563, 18-24, Female, Undergraduate, Yes, Not confident, Never, No, Occasionally, Never, No, Not familiar, Nothing, Yes, Interactive Scenarios, No, Not confident,12.5
+2023-11-27 22:29:52.542563, 25-34, Male, Alumni, No, Very confident, Always, Yes, Monthly, Monthly, Yes, Very familiar, Report to Police, No, University Resources, Yes, Very confident,47.0
+2023-11-27 22:29:52.542563, 18-24, Female, Graduate, Yes, Somewhat confident, Often, No, Rarely, Occasionally, Yes, Somewhat familiar, Block it, Yes, Workshops, No, Somewhat confident,37.0
+2023-11-27 22:29:52.542563, 25-34, Male, Undergraduate, No, Not confident, Rarely, Yes, Never, Never, No, Not familiar, Ignore it, No, Online Articles, Yes, Not confident,15.5
+2023-11-27 22:29:52.542563, 18-24, Prefer not to say, Graduate, Yes, Very confident, Always, No, Daily, Daily, Yes, Very familiar, Contact authorities, Yes, Interactive Scenarios, No, Very confident,33.0
+2023-11-27 22:29:52.542563, 25-34, Female, Undergraduate, No, Somewhat confident, Often, Yes, Rarely, Rarely, No, Somewhat familiar, Change passwords, No, University Resources, Yes, Somewhat confident,29.5
+2023-11-27 22:29:52.542563, 18-24, Male, Alumni, Yes, Not confident, Never, No, Occasionally, Occasionally, Yes, Not familiar, Nothing, Yes, Workshops, No, Not confident,11.0
+2023-11-27 22:29:52.542563, 25-34, Female, Graduate, Yes, Not confident, Rarely, No, Never, Rarely, No, Not familiar, Ignore it, No, Online Articles, Yes, Not confident,22.0
+2023-11-27 22:29:52.542563, 18-24, Male, Undergraduate, No, Very confident, Always, Yes, Daily, Never, Yes, Very familiar, Contact authorities, Yes, Workshops, No, Very confident,27.5
+2023-11-27 22:29:52.542563, 18-24, Female, Graduate, Yes, Somewhat confident, Often, No, Monthly, Occasionally, No, Somewhat familiar, Block it, Yes, Interactive Scenarios, Yes, Somewhat confident,42.0
+2023-11-27 22:29:52.542563, 25-34, Male, Alumni, No, Not confident, Never, Yes, Rarely, Rarely, Yes, Not familiar, Change passwords, No, University Resources, No, Not confident,16.0
+2023-11-27 22:29:52.542563, 18-24, Prefer not to say, Undergraduate, Yes, Very confident, Always, No, Occasionally, Daily, No, Very familiar, Report to Police, Yes, Online Articles, Yes, Very confident,43.5
+2023-11-27 22:29:52.542563, 25-34, Female, Graduate, No, Somewhat confident, Often, Yes, Never, Occasionally, Yes, Somewhat familiar, Ignore it, No, Workshops, Yes, Somewhat confident,27.0
+2023-11-27 22:29:52.542563, 18-24, Male, Undergraduate, Yes, Not confident, Rarely, No, Monthly, Never, No, Not familiar, Nothing, Yes, Interactive Scenarios, No, Not confident,20.5
+2023-11-27 22:29:52.542563, 25-34, Prefer not to say, Graduate, No, Very confident, Always, Yes, Rarely, Rarely, Yes, Very familiar, Contact authorities, No, University Resources, Yes, Very confident,34.0
+2023-11-27 22:29:52.542563, 18-24, Female, Alumni, Yes, Somewhat confident, Often, No, Occasionally, Occasionally, No, Somewhat familiar, Block it, Yes, Online Articles, No, Somewhat confident,29.0
+2023-11-27 22:29:52.542563, 25-34, Male, Undergraduate, No, Not confident, Never, Yes, Never, Daily, Yes, Not familiar, Change passwords, Yes, Workshops, Yes, Not confident,20.5
+2023-11-27 22:29:52.542563, 18-24, Female, Graduate, Yes, Very confident, Always, No, Monthly, Rarely, No, Very familiar, Report to Police, No, Interactive Scenarios, Yes, Very confident,50.0
+2023-11-27 22:29:52.542563, 25-34, Prefer not to say, Alumni, No, Somewhat confident, Often, Yes, Occasionally, Never, Yes, Somewhat familiar, Ignore it, Yes, University Resources, No, Somewhat confident,23.0
+2023-11-27 22:29:52.542563, 18-24, Male, Undergraduate, Yes, Not confident, Rarely, No, Rarely, Occasionally, No, Not familiar, Nothing, No, Online Articles, Yes, Not confident,15.5
+2023-11-27 22:29:52.542563, 25-34, Female, Graduate, No, Very confident, Always, Yes, Daily, Rarely, Yes, Very familiar, Contact authorities, Yes, Workshops, Yes, Very confident,35.0
+2023-11-27 22:29:52.542563, 18-24, Male, Alumni, Yes, Somewhat confident, Often, No, Never, Daily, No, Somewhat familiar, Block it, No, Interactive Scenarios, No, Somewhat confident,26.0
+2023-11-27 22:29:52.542563, 25-34, Female, Undergraduate, No, Not confident, Never, Yes, Occasionally, Occasionally, Yes, Not familiar, Change passwords, Yes, University Resources, Yes, Not confident,20.5
+2023-11-27 22:29:52.542563, 18-24, Prefer not to say, Graduate, Yes, Very confident, Always, No, Monthly, Never, No, Very familiar, Report to Police, Yes, Online Articles, Yes, Very confident,52.0
+2023-11-27 22:29:52.542563, 25-34, Male, Alumni, No, Somewhat confident, Often, Yes, Rarely, Rarely, Yes, Somewhat familiar, Ignore it, No, Workshops, No, Somewhat confident,23.0
+2023-11-27 22:29:52.542563, 18-24, Female, Undergraduate, Yes, Not confident, Rarely, No, Occasionally, Daily, No, Not familiar, Nothing, Yes, Interactive Scenarios, Yes, Not confident,16.5
+2023-11-27 22:29:52.542563, 25-34, Prefer not to say, Graduate, No, Very confident, Always, Yes, Never, Occasionally, Yes, Very familiar, Contact authorities, Yes, University Resources, Yes, Very confident,34.0
+2023-11-27 22:29:52.542563, 18-24, Male, Undergraduate, No, Moderately confident, Sometimes, No, Annually, Occasionally, Sometimes, Slightly familiar, Seek advice, Occasionally, Social Media, No, Moderately confident,4.5
+2023-11-27 22:29:52.542563, 25-34, Female, Graduate, Yes, Confident, Always, Yes, Never, Frequently, Rarely, Familiar, File a complaint, Rarely, Seminars, Yes, Confident,24.0
+2023-11-27 22:29:52.542563, 25-34, Non-binary, Alumni, No, Very confident, Often, No, Monthly, Never, Usually, Very familiar, Contact legal authorities, Yes, Newsletters, No, Very confident,28.0
+2023-11-27 22:29:52.542563, 18-24, Female, Undergraduate, Yes, Not confident, Never, Yes, Occasionally, Rarely, Never, Unfamiliar, Do nothing, No, University Website, Yes, Not confident,14.5
+2023-11-27 22:29:52.542563, 25-34, Male, Graduate, No, Somewhat confident, Rarely, No, Seldom, Sometimes, Always, Moderately familiar, Complain to university, Yes, Online forums, No, Moderately confident,16.0
